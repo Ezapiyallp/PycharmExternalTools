@@ -1,0 +1,24 @@
+pyinstaller --clean main.py
+python -m PyInstaller --hidden-import=PyQt5.QtPrintSupport --copy-metadata scanpy --noupx --onefile --windowed   F:\siddharth_python\PycharmExternalTools1\main.py
+
+
+btnOkClick()
+btnSMOkClick()
+txtSMmoduleNameTextChange()
+txtmoduleNameTextChange()
+
+
+
+txtProjectPath
+
+chkSMoverwriteMain
+chkSMaddModuleInSeprateFolder
+chkSMaddClassFile
+chkSMaddUIfile
+txtSMmoduleName
+txtSMclassName
+chkaddModuleInSeparateFolder
+chkaddClassFile
+chkaddUIfile
+txtmoduleName
+txtclassName
